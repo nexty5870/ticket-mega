@@ -4,7 +4,7 @@ title: '#4471 · what the reports show'
 owner: support desk
 status: open
 reviewed: 2026-10-28
-signature: Quentin
+signature: v1.eyJzdWIiOiIzNjMwIiwiYXVkIjoiY2hhbGxlbmdlOndoYXQtaXQtc2hvd3MiLCJpYXQiOjE3OTMyMTcxMzYsImV4cCI6MTc5MzMwMzUzNn0.gxaLU_sVdMj7CzjcDDO412Z6NXsEk_Nv4Ch6E_AbB3k
 ---
 
 <script>
